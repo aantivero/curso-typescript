@@ -34,6 +34,9 @@ class User {
     }
 }
 
+let userAccount = new User();
+userAccount.password
+
 //Herencia
 class Account {
     Name: string;
